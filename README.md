@@ -1,2 +1,2 @@
 # react-blaze
-Webpack 4 powered react starter pack
+Having fun with react and webpack 4.
